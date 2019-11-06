@@ -1,5 +1,5 @@
 # cyberark-api
-Home to Cyberark API project to interact with the cyberark API
+Home to Cyberark API Bash Script project to interact with the cyberark API
 
 Nothing too exciting just a bash script with a main menu to allow easy searching of the CyberArk Vault via the API at the command line rather than via the web portal.
 
